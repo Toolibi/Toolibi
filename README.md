@@ -9,7 +9,7 @@ An AI assistant for cabinet shops: give it a cabinet schedule and it reviews the
 Python · Microsoft Azure · Microsoft Foundry · Model Context Protocol (MCP) · CNC routers & nesting · cabinet/millwork production
 
 **📜 Certifications**
-PMP · CISM · CASP+ · CMMC-CCP
+PMP · CISM · CASP+ · CMMC-CCP AZURE AI
 
 **📫 Reach me:** Contact@princeboafo.com
 Open to AI deployment, manufacturing automation and production leadership roles, and to cabinet shops interested in piloting millwork-mcp.
